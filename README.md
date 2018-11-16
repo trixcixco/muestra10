@@ -1,3 +1,3 @@
-# Muestra 10
+# Restaurant/Bar
 
 https://trixcixco.github.io/muestra10/
